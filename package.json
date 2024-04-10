@@ -1,6 +1,9 @@
 {
+    "name": "after-school-lessons-app",
+    "version": "1.0.0",
     "description": "NativeScript Application",
-    "license": "SEE LICENSE IN <your-license-filename>",
+    "homepage": "https://github.com/lukegrc/react-native-app",
+    "license": "MIT",
     "readme": "NativeScript Application",
     "repository": "<fill-your-repository-here>",
     "nativescript": {
