@@ -26,3 +26,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implemented Vue Property Decorators
 - Created comprehensive type interfaces
 - Added proper build configuration
+
+## [1.1.0] - 2024-05-03
+
+### Added
+- Enhanced documentation and contributing guidelines
+- Development workflow documentation
+- Package metadata improvements
